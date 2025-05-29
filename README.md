@@ -2,7 +2,7 @@
 
 ## Dataset Used:
 -  <a href=https://raw.githubusercontent.com/HaiderrX/Spotify-Streaming-Analysis/refs/heads/main/train.csv>Dataset</a>
-This is a dataset taken from Kaggle with information regarding Spotify streaming information.
+- This is a dataset taken from Kaggle with information regarding Spotify streaming information.
 
 ## Final Report conducted on Analysis:
 - <a href=https://github.com/HaiderrX/Spotify-Streaming-Analysis/blob/main/Spotify_Streaming_Analysis_Report.pdf>Report</a>
